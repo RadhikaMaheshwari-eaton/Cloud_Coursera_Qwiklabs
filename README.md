@@ -1,2 +1,2 @@
 # Cloud_Coursera_Qwiklabs
-A demo new repository made for practice. 
+I am editing the README file. Adding some more details about the project description.
